@@ -1,4 +1,7 @@
+
+<!--Joshua -->
 MACHINELEARNINGCREDITSCORING
+
 ----------------------------
 
 - **Título**
@@ -30,3 +33,19 @@ Machine learning
 - **Palabras clave**
   Credit scoring
 
+
+
+
+
+
+
+
+
+<!--Daniel -->
+
+
+
+
+
+
+<!--Moises -->
