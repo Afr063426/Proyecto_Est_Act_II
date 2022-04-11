@@ -1,3 +1,45 @@
+<!--
+
+Base
+- **Título**
+**
+- **Autor(es)**
+  **
+- **Año**
+  **
+- **Nombre del tema**
+  
+- **Forma de organizarlo:**
+  - **Cronológico**
+  - 
+  - **Metológico**
+
+  - **Temático**
+
+  - **Teoría**
+
+- **Resumen en una oración**
+  
+- **Argumento central**
+  
+- **Problema con el argumento**
+  
+- **Resumen en un parrafo**
+  
+- [Link]()
+- **Palabras clave**
+  
+
+
+
+
+-->
+
+
+
+
+
+
 
 <!--Joshua -->
 MACHINELEARNINGCREDITSCORING
@@ -32,6 +74,9 @@ Machine learning
 - [Link](https://www.researchgate.net/publication/340952983_MACHINE_LEARNING_IN_CREDIT_SCORING_Jel_classification_G21G32O33)
 - **Palabras clave**
   Credit scoring
+
+
+
 
 
 
