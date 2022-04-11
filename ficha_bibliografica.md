@@ -115,6 +115,36 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 
 
 
+## Desbalanceo
+
+ ---
+- **Título**
+**
+- **Autor(es)**
+  **
+- **Año**
+  **
+- **Nombre del tema**
+  
+- **Forma de organizarlo:**
+  - **Cronológico**
+  - 
+  - **Metológico**
+
+  - **Temático**
+
+  - **Teoría**
+
+- **Resumen en una oración**
+  
+- **Argumento central**
+  
+- **Problema con el argumento**
+  
+- **Resumen en un parrafo**
+  
+- [Link]()
+- **Palabras clave**
 
 
 
