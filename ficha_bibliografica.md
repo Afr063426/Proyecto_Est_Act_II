@@ -146,6 +146,38 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - [Link]()
 - **Palabras clave**
 
+## aplication_diabetes
+---
+
+
+ ---
+- **Título**
+*Supervised Machine Learning Algorithms: Classification and Comparison*
+- **Autor(es)**
+  *Osisanwo, F., Akinsola J., Hinmikaiye, J. & Akinjobi, J.*
+- **Año**
+  *2017*
+- **Nombre del tema**
+  
+- **Forma de organizarlo:**
+  - **Cronológico**
+  - 
+  - **Metológico**
+
+  - **Temático**
+
+  - **Teoría**
+
+- **Resumen en una oración**
+  
+- **Argumento central**
+  
+- **Problema con el argumento**
+  
+- **Resumen en un parrafo**
+  
+- [Link](https://www.researchgate.net/publication/318338750_Supervised_Machine_Learning_Algorithms_Classification_and_Comparison)
+- **Palabras clave**
 
 
 
