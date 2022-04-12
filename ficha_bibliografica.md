@@ -158,24 +158,24 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Año**
   *2017*
 - **Nombre del tema**
-  
+  El documento es sobre varios métodos de machine learning para clasificación.
 - **Forma de organizarlo:**
   - **Cronológico**
-  - 
+  2017
   - **Metológico**
-
+  Aplica tablas de decisión, bosques aleatorios, Naive Bayes, SVM, NN, JRip y un árbol de decisión (J48). Para el error MAE y Kappa Stastics. WEKA Software.
   - **Temático**
-
+  Experimental
   - **Teoría**
-
+  Machine learning
 - **Resumen en una oración**
-  
+  En este documento se aplican métodos de machine learning, para clasificación diabetes.
 - **Argumento central**
-  
+  Comparativa entre el nivel de error en la clasificación.
 - **Problema con el argumento**
-  
+  No todos los métodos se ajustan de la mejor manera a las tablas de datos. En algunos casos unos son mejores que otros y viceversa. Hacia esto se dirige el Meta-learning. Se deben complementar varios métodos.
 - **Resumen en un parrafo**
-  
+  En este documento se hace un revisión teórica de las carácteristicas de algunos métodos de machine learning para clasificación. En el se destaca que el algoritmos más novedoso es el SVM. Determina cuales son los mejores para grandes dimesiones y los mejores en términos de construcción del modelo. Aplica los métodos de estimación de error MAE y Kappa statitisc. La base empleada es de 768 observaciones. Se concluye en el documento mayor velocidad no implica precisión. A su vez se destaca el surgimiento del meta-learning para establecer cuáles modelos se ajustan mejor a ciertas tablas de datos. 
 - [Link](https://www.researchgate.net/publication/318338750_Supervised_Machine_Learning_Algorithms_Classification_and_Comparison)
 - **Palabras clave**
 
