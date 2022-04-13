@@ -147,8 +147,6 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Palabras clave**
 
 ## aplication_diabetes
----
-
 
  ---
 - **Título**
@@ -178,6 +176,40 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
   En este documento se hace un revisión teórica de las carácteristicas de algunos métodos de machine learning para clasificación. En el se destaca que el algoritmos más novedoso es el SVM. Determina cuales son los mejores para grandes dimesiones y los mejores en términos de construcción del modelo. Aplica los métodos de estimación de error MAE y Kappa statitisc. La base empleada es de 768 observaciones. Se concluye en el documento mayor velocidad no implica precisión. A su vez se destaca el surgimiento del meta-learning para establecer cuáles modelos se ajustan mejor a ciertas tablas de datos. 
 - [Link](https://www.researchgate.net/publication/318338750_Supervised_Machine_Learning_Algorithms_Classification_and_Comparison)
 - **Palabras clave**
+
+
+## Scoring_logistic_disciminant_analysis
+
+----
+- **Título**
+*Credit Scoring and Default Risk Prediction: A Comparative Study between Disciminant Analysis & Logistic Regression*
+- **Autor(es)**
+  *Khemais, Z. Nesrine D. & Mohamed, M.*
+- **Año**
+  *2016*
+- **Nombre del tema**
+  Es una construcción de un score crediticio, para determinar la probabilidad de que haya un default crediticio.
+- **Forma de organizarlo:**
+  - **Cronológico**
+  Los datos son del 2012 y 2014. Presentado en el 2016
+  - **Metológico**
+  Emplea análisis de discriminantes (test de cajas de igualdad entre matrices de covarianza), regresión logística
+  - **Temático**
+  Experimental
+  - **Teoría**
+  Scoring crediticio
+- **Resumen en una oración**
+  Aplicación de métodos para determinar la probabilidad de que alguna persona incurra en default crediticio.
+- **Argumento central**
+  Se aplican dos métodos para determinar la probabilidad de default crediticio. Se presentan distintas ideas sobre lo que es el scoring crediticio.
+- **Problema con el argumento**
+  Entre las limitaciones que tuvieron los autores está la poca información.
+- **Resumen en un parrafo**
+  En este documento se presenta un idea general sobre lo que es el scoring crediticio y las clasificaciones que se pueden hacer según los interese. Se busca construir un método de score crediticio para un banco de Tunisia, con datos de pequeñas y grandes empresas. En el documento se aplican dos métodos para determinar el score crediticio que son el análisis de discrimintantes y la regresión logística. A su vez emplean método para determinar el ajuste del modelo. Obtienen que el método que mejores resultados obtiene el de análisis de discriminantes frente a la regresión logística.
+- [Link](https://www.researchgate.net/publication/299473359_Credit_Scoring_and_Default_Risk_Prediction_A_Comparative_Study_between_Discriminant_Analysis_Logistic_Regression)
+- **Palabras clave**
+  
+
 
 
 
