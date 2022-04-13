@@ -211,7 +211,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
   
 
 
-
+......
 
 
 
