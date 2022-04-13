@@ -223,7 +223,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 <!--Daniel -->
 
 
-hola esto funciona
+hola esto funciona, no se
 
 
 
