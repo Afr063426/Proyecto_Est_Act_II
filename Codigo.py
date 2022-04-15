@@ -1,6 +1,6 @@
 import pandas as pd
 from tabulate import tabulate
 
-file='german.data'
+file='SouthGermanCredit.asc'
 data=pd.read_csv(file,' ')
 print(tabulate(data))
