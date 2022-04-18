@@ -202,7 +202,8 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
   Emplea la libería LIBSVM en MATLAB, para implementar el modelo.
   En el caso de la máquina de soporte vectorial debe escoger el mejor candidato a Kernel, él toma el Kernel Gaussiano.
   Para valorar y comparar los resultados de cada modelo emplea la curva ROC y el área bajo la curva (AUC). 
-  <!--Sobre  sampleo, random forest->
+  <!--Sobre  sampleo, random forest-->
+  
   - **Temático**
 
   - **Teoría**
@@ -220,6 +221,35 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Palabras clave**
   
 
+- **Título**
+*Understanding Machine Learning: From Theory to Algorithms*
+- **Autor(es)**
+  *Shalev-Shwartz, S. & Ben-David, S.*
+- **Año**
+  *2014*
+- **Nombre del tema**
+  El libro trata la fundamentación del ML y distintos algoritmos.
+- **Forma de organizarlo:**
+  - **Cronológico**
+    Este libro fue publicado en 2014
+  - **Metodológico**
+    El autor realiza una revisión de distintos textos y a su vez emplea sus propios conocimientos para redactar el libro.
+  - **Temático**
+  Podría ser considerado explicativo, ya que busca explicar la fundamentación de distintos algoritmos de ML.
+  - **Teoría**
+  Machine Learning
+- **Resumen en una oración**
+  Comparativa entre como piensan los seres vivos y fundamentación para adaptarlo a algoritmos.
+- **Argumento central**
+  La fundamentación de los algoritmos tanto a nivel teórico como intuitivo.
+- **Problema con el argumento**
+  De momento se está en proceso de lectura.
+- **Resumen en un parrafo**
+  Este libro inicia con una explicación sobre lo que es ML. Hace una explicación de lo que significa aprender para los animales. Basado en la explicación de lo que se entiende lo que es aprender explica, cómo se pueden intuir distintos algoritmos.
+  Explica algunos de los conceptos necesarios al momento de querer realizar modelos de ML. Presenta la formalización matemática de distintos modelos.
+- [Link]()
+- **Palabras clave**
+  
 
 
 
