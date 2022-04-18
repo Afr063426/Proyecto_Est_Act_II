@@ -212,10 +212,11 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Argumento central**
   El algoritmo SVM como alternativa para al score crediticio en que se emplea Regresión Logística.
 - **Problema con el argumento**
-  Alto costo computacional, en particular para poder encontrar un Kernel adecuado y a pesar de que los resultados obtenidos son mejores que la Regresión Logística 
+  Alto costo computacional, en particular para poder encontrar un Kernel adecuado. Además de que un desbalance en los datos puede afectar y al menos a la fecha en que fue redactado este problema con el algoritmo SVM no había sido solucionado.
 - **Resumen en un parrafo**
-  
-- [Link]()
+  El documen es detallado en cuanto a todo lo que se debe hacer para poder construir un modelo de score crediticio con SVM. Hace una amplia revisión bibliográfica sobre el tema de score crediticio con ML. Destaca como ventaja el hecho de que el algoritmo no hace suposiciones como otros modelos financieros. Obtiene que el modelo obtiene ligeramente resultados superiores sobre la Regresión Logística bajo el criterio AUC.  Concluye que a pesar de que el modelo útil por no tener suposiciones y que puede ser implementado por personas que no necesariamente son profesionales en finanzas, el costo computacional, es alto y el grado de mejora con respecto a la Regresión Logística no son motivos suficientes como para que las empresas decidan cambiar este método que es ampliamente utilizado.
+
+- [Link](https://www.researchgate.net/publication/320622409_Support_Vector_Machines_for_Credit_Scoring?enrichId=rgreq-79da5f726161074628ec16ab48488c06-XXX&enrichSource=Y292ZXJQYWdlOzMyMDYyMjQwOTtBUzo1NTM2ODUzNzE0MTY1NzZAMTUwOTAyMDI4NzIzNw%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - **Palabras clave**
   
 
