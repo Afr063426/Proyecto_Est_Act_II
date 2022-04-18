@@ -247,7 +247,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Resumen en un parrafo**
   Este libro inicia con una explicación sobre lo que es ML. Hace una explicación de lo que significa aprender para los animales. Basado en la explicación de lo que se entiende lo que es aprender explica, cómo se pueden intuir distintos algoritmos.
   Explica algunos de los conceptos necesarios al momento de querer realizar modelos de ML. Presenta la formalización matemática de distintos modelos.
-- [Link]()
+- [Link](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/)
 - **Palabras clave**
   
 
