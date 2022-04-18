@@ -12,7 +12,7 @@ Base
 - **Forma de organizarlo:**
   - **Cronológico**
   - 
-  - **Metológico**
+  - **Metodológico**
 
   - **Temático**
 
@@ -57,7 +57,7 @@ Base
 - **Forma de organizarlo:**
   - **Cronológico**
    Este documento se originó en el año 2019 y se referencian en un su gran mayoría textos del 2010 en adelante.
-  - **Metológico**
+  - **Metodológico**
   Es una simple revisión.
   - **Temático**
   Podría considerarse un metaanálisis.
@@ -91,7 +91,7 @@ Machine learning
 - **Forma de organizarlo:**
   - **Cronológico**
   Este documento fue presentado en el año 2018.
-  - **Metológico**
+  - **Metodológico**
   Se emplea una red elástica que es una extensión de una regresión lineal, a su vez se emplean dos algoritmos de machine learning que son bosques aleatorios (Random Forest), potenciación del gradiente (Gradient Boosting Machine) y cuatro modelos distintos deep learning con gradiente 
   estocástico.
   Para hacer una comparación entre los ajustes de cada modelo emplea el criterio AUC y RMSE.
@@ -115,36 +115,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 
 
 
-## Desbalanceo
 
- ---
-- **Título**
-**
-- **Autor(es)**
-  **
-- **Año**
-  **
-- **Nombre del tema**
-  
-- **Forma de organizarlo:**
-  - **Cronológico**
-  - 
-  - **Metológico**
-
-  - **Temático**
-
-  - **Teoría**
-
-- **Resumen en una oración**
-  
-- **Argumento central**
-  
-- **Problema con el argumento**
-  
-- **Resumen en un parrafo**
-  
-- [Link]()
-- **Palabras clave**
 
 ## aplication_diabetes
 
@@ -160,7 +131,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Forma de organizarlo:**
   - **Cronológico**
   2017
-  - **Metológico**
+  - **Metodológico**
   Aplica tablas de decisión, bosques aleatorios, Naive Bayes, SVM, NN, JRip y un árbol de decisión (J48). Para el error MAE y Kappa Stastics. WEKA Software.
   - **Temático**
   Experimental
@@ -192,7 +163,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Forma de organizarlo:**
   - **Cronológico**
   Los datos son del 2012 y 2014. Presentado en el 2016
-  - **Metológico**
+  - **Metodológico**
   Emplea análisis de discriminantes (test de cajas de igualdad entre matrices de covarianza), regresión logística
   - **Temático**
   Experimental
@@ -211,6 +182,42 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
   
 
 
+
+
+## Maquina_soporte_score_tesis
+- **Título**
+*Support Vector Machines for Credit Scoring*
+- **Autor(es)**
+  *Hatluf, M.*
+- **Año**
+  *2014*
+- **Nombre del tema**
+  El documento es sobre cómo desarrollar un modelo de score crediticio empleando el algoritmo de Máquina de Soporte Vectorial (SVM) y lo compara con la Regresión Logística.
+- **Forma de organizarlo:**
+  - **Cronológico**
+  La tesis es del año 2014
+  - **Metodológico**
+  El autor escala los datos numéricos y los estandarizada con el método de unidad tipificada, a su vez asigna valores numéricos a variables las cuales son categóricas. También trata los valores no disponibles colocándoles la moda de la variable. 
+  El autor emplea para su trabajo el algoritmo de Máquina de Soporte Vectorial y Regresión Logística para construir dos modelos de score crediticio y compararlos. Para cuantificar el hecho de que los usuarios sean buenos o malos de acuerdo al modelo desarrollado, calcula el margen funcional de la observación. Toma como variable binaria, la variable de default un año, la cual indica que la persona incumplió con el contrato de crédito 365 días después de que fue otorgado. Emplea 2632 observacionbes de la cuales 656 son de default.
+  Emplea la libería LIBSVM en MATLAB, para implementar el modelo.
+  En el caso de la máquina de soporte vectorial debe escoger el mejor candidato a Kernel, él toma el Kernel Gaussiano.
+  Para valorar y comparar los resultados de cada modelo emplea la curva ROC y el área bajo la curva (AUC). 
+  <!--Sobre  sampleo, random forest->
+  - **Temático**
+
+  - **Teoría**
+
+- **Resumen en una oración**
+  Comparación entre score crediticio SVM y Regresión Logística que es ampliamente utilizado.
+- **Argumento central**
+  El algoritmo SVM como alternativa para al score crediticio en que se emplea Regresión Logística.
+- **Problema con el argumento**
+  Alto costo computacional, en particular para poder encontrar un Kernel adecuado y a pesar de que los resultados obtenidos son mejores que la Regresión Logística 
+- **Resumen en un parrafo**
+  
+- [Link]()
+- **Palabras clave**
+  
 
 
 
