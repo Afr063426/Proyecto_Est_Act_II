@@ -220,6 +220,7 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - [Link](https://www.researchgate.net/publication/320622409_Support_Vector_Machines_for_Credit_Scoring?enrichId=rgreq-79da5f726161074628ec16ab48488c06-XXX&enrichSource=Y292ZXJQYWdlOzMyMDYyMjQwOTtBUzo1NTM2ODUzNzE0MTY1NzZAMTUwOTAyMDI4NzIzNw%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - **Palabras clave**
   
+## understanding-machine-learning-theory-algorithms
 
 - **Título**
 *Understanding Machine Learning: From Theory to Algorithms*
