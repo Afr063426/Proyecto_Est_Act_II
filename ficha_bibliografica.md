@@ -285,6 +285,38 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Palabras clave**
 
 
+<!-- 
+# Review-machine_learging
+- **Título**
+*AI and Machine Learning for Risk Management*
+- **Autor(es)**
+  *Aziz, S. & Dowling, R.*
+- **Año**
+  *2018*
+- **Nombre del tema**
+  
+- **Forma de organizarlo:**
+  - **Cronológico**
+  - 
+  - **Metodológico**
+
+  - **Temático**
+
+  - **Teoría**
+
+- **Resumen en una oración**
+  
+- **Argumento central**
+  
+- **Problema con el argumento**
+  
+- **Resumen en un parrafo**
+  
+- [Link]()
+- **Palabras clave**
+-->
+
+
 
 
 
