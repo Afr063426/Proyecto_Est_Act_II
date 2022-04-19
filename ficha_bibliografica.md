@@ -252,7 +252,37 @@ Es una aplicación y comparativa entre distintos modelos de machine learning y d
 - **Palabras clave**
   
 
+# Moises_machine_tesis
 
+- **Título**
+*Analysis of Financial Credit Risk Using Machine Learning*
+- **Autor(es)**
+  *Chow, J.*
+- **Año**
+  *2017*
+- **Nombre del tema**
+  Se construye un modelo empleando algoritmos de ML para determinar la bancarrota de una empresa. 
+- **Forma de organizarlo:**
+  - **Cronológico**
+  Presentado en el año 2017
+  - **Metodológico**
+  Primeramente para identificar la variables más relevantes y reducir la dimensionalidad se emplea Ánalisis de Componentes Princiales (PCA), también emplea Ánalisis Lineal Discriminatorio (LDA), pero esto es en caso de que se tenga una proyección lineal, teniendo en cuenta esto también emplean Asignación de Características Isométricas (ISOMAP) y aplican el Truco del Kernel al PCA. Cada uno lo aplican por separado a la base de datos, para después emplear cada modelo. 
+  Posterior a reducir la dimensionalidad en el trabajo emplean Regresión Logística, Árboles, SVM, Árboles de Decisión, AdaBoost, Redes Neuronales Artificiales y Procesos Gaussianos.
+  Para cuantificar el ajuste de los modelos emplean una Matriz de Confusión y calculan la exactitud, la precisión, exahustividad y F1 score. Aparte de esto emplean la curva curva Caracterísitica Operativa del Receptor (ROC) y miden el área bajo la curva (AUC).
+  - **Temático**
+  Experimental
+  - **Teoría**
+  ML y Bancarrota Corporativa.
+- **Resumen en una oración**
+  Este documento emplea varios modelos de Ml y cuantifica el ajuste.
+- **Argumento central**
+  En este documento se explica los métodos que emplearon y cuál era el objetivo. Así como cuantificar el grado de predicción los modelos.
+- **Problema con el argumento**
+  En el trabajo emplea dos bases de datos, una en la cual se toman variables elaboradas por expertos y otra en la cual se emplean coeficientes financieros. En la base con variables de expertos se obtuvieron mejores resultados de ajuste. 
+- **Resumen en un parrafo**
+  El documento emplea distintos métodos de ML, para realizar una predicción sobre si la empresa quebrará dentro de un año. Se emplean dos bases de datos, la primera base de datos tiene variables elaboradas por expertos y la segunda tiene coeficientes financieros. Para disminuir la dimensionalidad y así reducir la complejidad y el ruido emplea cuatro métodos distintos. Cuantificando el grado de ajuste y la ROC junto con el AUC, obtiene buenos resultados. Concluye que el ML puede ser de gran ayuda para el sector financiero, pero hay que tener ciertos cuidados con los datos que se emplean dado que los datos con variables de expertos ajustan mejor que los coeficientes financieros. 
+- [Link](https://arxiv.org/pdf/1802.05326.pdf)
+- **Palabras clave**
 
 
 
